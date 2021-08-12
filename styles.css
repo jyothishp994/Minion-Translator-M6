@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 :root {
 --primary-color:#FFFF33;
 --off-white: #f9f5f5;
@@ -6,7 +6,7 @@
 }
 body{
 margin:0;
-font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
 }
 main{
 background-color:var( --dark-gray);
